@@ -6,7 +6,7 @@ import Layout from "../../components/layout";
 
 export default function FirstPost () {
     return (
-        <Layout>
+        <Layout first-post>
             {/*Modify meta*/}
             <Head>
                 <title>First Post</title>
